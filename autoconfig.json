@@ -23,8 +23,7 @@
     "geosite:category-media-ru",
     "geosite:category-entertainment-ru",
     "geosite:CATEGORY-BANK-RU",
-    "geosite:TLD-RU",
-    "geosite:ru"
+    "geosite:TLD-RU"
   ],
   "DirectIp": [
     "geoip:ru"
